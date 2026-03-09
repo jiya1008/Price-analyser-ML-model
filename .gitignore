@@ -1,0 +1,27 @@
+venv/
+__pycache__/
+*.pyc
+
+# Large data and artifacts (kept locally, not pushed to GitHub)
+dataset/
+images/
+processed/
+embeddings_tmp/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs and temporary files
+*.log
+*.tmp
+smart_pricing_code.zip
+submission*.csv
+failed_urls*.txt
+dataset_with_embeddings.csv
+
