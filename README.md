@@ -10,6 +10,8 @@ The system combines:
 
 The goal is to improve price prediction accuracy by leveraging multiple types of product information.
 
+The model has been trained with the data of 75K entries/products.
+
 # Project Structure
 
 ```
